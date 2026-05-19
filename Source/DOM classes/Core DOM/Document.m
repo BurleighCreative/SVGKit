@@ -1,4 +1,5 @@
 #import "Document.h"
+#import "SVGKDefine_Private.h"
 #import "Document+Mutable.h"
 
 #import "DOMHelperUtilities.h"

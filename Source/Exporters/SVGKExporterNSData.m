@@ -1,4 +1,5 @@
 #import "SVGKExporterNSData.h"
+#import "SVGKDefine.h"
 
 #import "SVGKImage+CGContext.h" // needed for Context calls
 

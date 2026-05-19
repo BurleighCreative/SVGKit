@@ -33,3 +33,5 @@ Carthage/Build
 
 #VScode
 .vscode
+.build/
+Package.resolved

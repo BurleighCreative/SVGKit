@@ -7,6 +7,7 @@
 //
 
 #import "ProcessingInstruction.h"
+#import "SVGKDefine.h"
 
 @interface ProcessingInstruction()
 @property(nonatomic,strong,readwrite) NSString* target;

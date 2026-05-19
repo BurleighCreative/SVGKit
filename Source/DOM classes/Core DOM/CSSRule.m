@@ -1,4 +1,5 @@
 #import "CSSRule.h"
+#import "SVGKDefine.h"
 
 @implementation CSSRule
 

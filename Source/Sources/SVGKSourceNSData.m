@@ -1,4 +1,5 @@
 #import "SVGKSourceNSData.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGKSourceURL.h" // used for delegating when asked to construct relative links
 

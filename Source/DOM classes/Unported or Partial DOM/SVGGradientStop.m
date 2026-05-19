@@ -8,6 +8,7 @@
 
 
 #import "SVGGradientStop.h"
+#import "SVGKDefine.h"
 #import "SVGElement_ForParser.h"
 
 #import "SVGUtils.h"

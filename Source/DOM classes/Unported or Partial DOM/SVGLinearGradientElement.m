@@ -7,6 +7,7 @@
 //
 
 #import "SVGLinearGradientElement.h"
+#import "SVGKDefine_Private.h"
 #import "SVGElement_ForParser.h"
 #import "SVGGradientLayer.h"
 

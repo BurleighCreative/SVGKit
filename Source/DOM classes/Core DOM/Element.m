@@ -1,4 +1,5 @@
 #import "Element.h"
+#import "SVGKDefine.h"
 
 #import "NamedNodeMap.h"
 #import "DOMHelperUtilities.h"

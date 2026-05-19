@@ -7,6 +7,7 @@
 //
 
 #import "SVGRadialGradientElement.h"
+#import "SVGKDefine_Private.h"
 #import "SVGElement_ForParser.h"
 #import "SVGUtils.h"
 #import "SVGGradientLayer.h"

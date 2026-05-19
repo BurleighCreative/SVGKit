@@ -1,6 +1,7 @@
  /* FIXME: very different from SVG Spec */
 
 #import "SVGGradientElement.h"
+#import "SVGKDefine_Private.h"
 #import "SVGGradientStop.h"
 #import "SVGGElement.h"
 #import "SVGLinearGradientElement.h"

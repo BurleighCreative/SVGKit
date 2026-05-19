@@ -6,6 +6,7 @@
 //
 
 #import "SVGPolygonElement.h"
+#import "SVGKDefine.h"
 
 #import "SVGKPointsAndPathsParser.h"
 

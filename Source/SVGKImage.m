@@ -1,4 +1,5 @@
 #import "SVGKImage.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGDefsElement.h"
 #import "SVGDescriptionElement.h"

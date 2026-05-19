@@ -7,6 +7,7 @@
 //
 
 #import "CDATASection.h"
+#import "SVGKDefine.h"
 
 @implementation CDATASection
 

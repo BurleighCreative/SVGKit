@@ -1,4 +1,5 @@
 #import "CSSRuleList.h"
+#import "SVGKDefine.h"
 #import "CSSRuleList+Mutable.h"
 
 @implementation CSSRuleList

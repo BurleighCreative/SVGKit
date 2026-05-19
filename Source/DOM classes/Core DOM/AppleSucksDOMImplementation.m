@@ -1,5 +1,6 @@
 
 #import "AppleSucksDOMImplementation.h"
+#import "SVGKDefine.h"
 
 @implementation AppleSucksDOMImplementation
 

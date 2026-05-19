@@ -1,4 +1,5 @@
 #import "SVGKParserDOM.h"
+#import "SVGKDefine.h"
 
 #import "Node+Mutable.h"
 

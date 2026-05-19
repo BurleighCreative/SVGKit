@@ -7,6 +7,7 @@
 //
 
 #import "CharacterData.h"
+#import "SVGKDefine.h"
 
 @implementation CharacterData
 

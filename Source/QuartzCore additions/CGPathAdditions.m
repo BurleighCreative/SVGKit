@@ -6,6 +6,7 @@
 //
 
 #import "CGPathAdditions.h"
+#import "SVGKDefine.h"
 
 void applier (void *info, const CGPathElement *element);
 

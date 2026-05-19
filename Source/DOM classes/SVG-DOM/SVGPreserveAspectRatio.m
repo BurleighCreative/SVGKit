@@ -1,4 +1,5 @@
 #import "SVGPreserveAspectRatio.h"
+#import "SVGKDefine.h"
 
 @implementation SVGPreserveAspectRatio
 

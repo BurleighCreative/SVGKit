@@ -1,4 +1,5 @@
 #import "SVGTextContentElement.h"
+#import "SVGKDefine.h"
 
 @implementation SVGTextContentElement
 

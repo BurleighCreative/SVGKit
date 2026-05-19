@@ -1,4 +1,5 @@
 #import "SVGKSourceString.h"
+#import "SVGKDefine.h"
 
 @implementation SVGKSourceString
 

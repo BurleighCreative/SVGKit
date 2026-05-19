@@ -7,6 +7,7 @@
 //
 
 #import "SVGGradientLayer.h"
+#import "SVGKDefine_Private.h"
 #import "SVGRadialGradientElement.h"
 #import "SVGLinearGradientElement.h"
 #import "CALayerWithClipRender.h"

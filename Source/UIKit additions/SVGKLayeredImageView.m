@@ -1,4 +1,5 @@
 #import "SVGKLayeredImageView.h"
+#import "SVGKDefine_Private.h"
 
 #import <QuartzCore/QuartzCore.h>
 

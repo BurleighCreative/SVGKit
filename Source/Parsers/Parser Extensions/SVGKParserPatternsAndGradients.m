@@ -7,6 +7,7 @@
 //
 
 #import "SVGKParserPatternsAndGradients.h"
+#import "SVGKDefine.h"
 
 #import "SVGSVGElement.h"
 #import "SVGCircleElement.h"

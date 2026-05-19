@@ -7,6 +7,7 @@
 //
 
 #import "EntityReference.h"
+#import "SVGKDefine.h"
 
 @implementation EntityReference
 

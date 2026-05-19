@@ -7,6 +7,7 @@
 //
 
 #import "CALayerWithClipRender.h"
+#import "SVGKDefine.h"
 
 @implementation CALayerWithClipRender
 

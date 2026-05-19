@@ -7,6 +7,7 @@
  */
 
 #import "Document+Mutable.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGDocument.h"
 #import "SVGDocument_Mutable.h"

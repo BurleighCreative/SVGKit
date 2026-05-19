@@ -1,4 +1,5 @@
 #import "BaseClassForAllSVGBasicShapes.h"
+#import "SVGKDefine.h"
 #import "BaseClassForAllSVGBasicShapes_ForSubclasses.h"
 
 #import "CGPathAdditions.h"

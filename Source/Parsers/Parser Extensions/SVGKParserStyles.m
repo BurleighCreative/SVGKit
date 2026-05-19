@@ -7,6 +7,7 @@
 //
 
 #import "SVGKParserStyles.h"
+#import "SVGKDefine.h"
 
 #import "CSSStyleSheet.h"
 #import "StyleSheetList+Mutable.h"

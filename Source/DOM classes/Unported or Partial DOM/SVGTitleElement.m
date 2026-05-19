@@ -6,6 +6,7 @@
 //
 
 #import "SVGTitleElement.h"
+#import "SVGKDefine.h"
 
 @implementation SVGTitleElement
 

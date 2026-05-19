@@ -1,4 +1,5 @@
 #import "SVGImageElement.h"
+#import "SVGKDefine_Private.h"
 
 #import "CALayerWithClipRender.h"
 #import "SVGHelperUtilities.h"

@@ -7,6 +7,7 @@
 //
 
 #import "SVGKParserGradient.h"
+#import "SVGKDefine.h"
 
 #import "SVGElement_ForParser.h"
 

@@ -6,6 +6,7 @@
 //
 
 #import "SVGPathElement.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGUtils.h"
 #import "SVGKPointsAndPathsParser.h"

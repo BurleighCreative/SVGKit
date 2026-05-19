@@ -1,4 +1,5 @@
 #import "SVGUseElement.h"
+#import "SVGKDefine.h"
 #import "SVGUseElement_Mutable.h"
 
 @implementation SVGUseElement

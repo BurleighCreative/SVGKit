@@ -7,6 +7,7 @@
 //
 
 #import "SVGKit.h"
+#import "SVGKDefine.h"
 #import "CocoaLumberjack/DDTTYLogger.h"
 #import "CocoaLumberjack/DDASLLogger.h"
 

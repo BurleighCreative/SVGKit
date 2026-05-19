@@ -1,4 +1,5 @@
 #import "SVGElementInstance.h"
+#import "SVGKDefine.h"
 #import "SVGElementInstance_Mutable.h"
 
 #import "SVGElementInstanceList_Internal.h"

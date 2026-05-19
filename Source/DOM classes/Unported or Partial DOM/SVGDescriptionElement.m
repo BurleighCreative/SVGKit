@@ -6,6 +6,7 @@
 //
 
 #import "SVGDescriptionElement.h"
+#import "SVGKDefine.h"
 
 @implementation SVGDescriptionElement
 
