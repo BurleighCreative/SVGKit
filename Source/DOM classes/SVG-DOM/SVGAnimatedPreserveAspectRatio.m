@@ -1,4 +1,5 @@
 #import "SVGAnimatedPreserveAspectRatio.h"
+#import "SVGKDefine.h"
 
 @implementation SVGAnimatedPreserveAspectRatio
 

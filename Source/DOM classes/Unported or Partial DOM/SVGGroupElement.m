@@ -9,6 +9,7 @@
  This is the "G" tag.
  */
 #import "SVGGroupElement.h"
+#import "SVGKDefine.h"
 
 #import "CALayerWithChildHitTest.h"
 

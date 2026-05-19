@@ -7,6 +7,7 @@
 //
 
 #import "CALayer+RecursiveClone.h"
+#import "SVGKDefine.h"
 
 @implementation CALayer (RecursiveClone)
 

@@ -1,4 +1,5 @@
 #import "SVGHelperUtilities.h"
+#import "SVGKDefine_Private.h"
 
 #import "CAShapeLayerWithHitTest.h"
 #import "SVGUtils.h"

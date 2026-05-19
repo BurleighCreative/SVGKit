@@ -1,4 +1,5 @@
 #import "SVGRect.h"
+#import "SVGKDefine.h"
 
 BOOL SVGRectIsInitialized( SVGRect rect )
 {

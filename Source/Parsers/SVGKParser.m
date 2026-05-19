@@ -6,6 +6,7 @@
 //
 
 #import "SVGKParser.h"
+#import "SVGKDefine_Private.h"
 #import <libxml/parser.h>
 
 #import "SVGKParserSVG.h"

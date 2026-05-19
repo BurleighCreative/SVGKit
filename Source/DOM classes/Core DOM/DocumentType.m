@@ -7,6 +7,7 @@
 //
 
 #import "DocumentType.h"
+#import "SVGKDefine.h"
 
 /*
  in case we need to redeclare them readwrite:

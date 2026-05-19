@@ -1,4 +1,5 @@
 #import "CSSStyleDeclaration.h"
+#import "SVGKDefine_Private.h"
 
 #import "CSSValue.h"
 #import "CSSValueList.h"

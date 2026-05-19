@@ -1,4 +1,5 @@
 #import "SVGKParserSVG.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGSVGElement.h"
 #import "SVGCircleElement.h"

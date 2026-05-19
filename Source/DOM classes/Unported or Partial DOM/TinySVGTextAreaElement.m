@@ -7,6 +7,7 @@
 //
 
 #import "TinySVGTextAreaElement.h"
+#import "SVGKDefine.h"
 #import "SVGKParseResult.h"
 #import "SVGElement_ForParser.h"
 

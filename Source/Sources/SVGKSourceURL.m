@@ -1,4 +1,5 @@
 #import "SVGKSourceURL.h"
+#import "SVGKDefine.h"
 
 @implementation SVGKSourceURL
 

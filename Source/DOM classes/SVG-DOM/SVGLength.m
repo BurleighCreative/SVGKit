@@ -1,4 +1,5 @@
 #import "SVGLength.h"
+#import "SVGKDefine_Private.h"
 
 #import "CSSPrimitiveValue.h"
 #import "CSSPrimitiveValue_ConfigurablePixelsPerInch.h"

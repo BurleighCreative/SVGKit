@@ -1,4 +1,5 @@
 #import "SVGGElement.h"
+#import "SVGKDefine.h"
 
 #import "CALayerWithChildHitTest.h"
 

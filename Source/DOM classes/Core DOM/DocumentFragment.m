@@ -7,6 +7,7 @@
 //
 
 #import "DocumentFragment.h"
+#import "SVGKDefine.h"
 
 @implementation DocumentFragment
 

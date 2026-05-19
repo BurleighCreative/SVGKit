@@ -7,6 +7,7 @@
 //
 
 #import "SVGKImage+CGContext.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGRect.h"
 #import "SVGSVGElement.h"

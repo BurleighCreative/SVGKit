@@ -1,4 +1,5 @@
 #import "SVGKExporterNSImage.h"
+#import "SVGKDefine_Private.h"
 #import "SVGUtils.h"
 #import "SVGKImage+CGContext.h" // needed for Context calls
 #import <objc/runtime.h>

@@ -1,4 +1,5 @@
 #import "SVGKPattern.h"
+#import "SVGKDefine.h"
 
 @implementation SVGKPattern
 

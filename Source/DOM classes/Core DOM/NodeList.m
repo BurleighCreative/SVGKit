@@ -1,4 +1,5 @@
 #import "NodeList.h"
+#import "SVGKDefine.h"
 #import "NodeList+Mutable.h"
 
 @implementation NodeList

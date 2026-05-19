@@ -5,6 +5,7 @@
 //
 
 #import "CALayerWithChildHitTest.h"
+#import "SVGKDefine.h"
 
 @implementation CALayerWithChildHitTest
 

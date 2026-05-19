@@ -1,4 +1,5 @@
 #import "SVGAngle.h"
+#import "SVGKDefine.h"
 
 @implementation SVGAngle
 

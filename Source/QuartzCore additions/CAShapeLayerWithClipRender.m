@@ -7,6 +7,7 @@
 //
 
 #import "CAShapeLayerWithClipRender.h"
+#import "SVGKDefine.h"
 #import "CALayerWithClipRender.h"
 
 @implementation CAShapeLayerWithClipRender

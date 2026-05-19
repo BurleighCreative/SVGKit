@@ -1,4 +1,5 @@
 #import "SVGClipPathElement.h"
+#import "SVGKDefine_Private.h"
 
 #import "CALayerWithChildHitTest.h"
 

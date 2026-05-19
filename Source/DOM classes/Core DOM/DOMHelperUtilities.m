@@ -1,5 +1,6 @@
 
 #import "DOMHelperUtilities.h"
+#import "SVGKDefine_Private.h"
 
 #import "Element.h"
 #import "NodeList.h"

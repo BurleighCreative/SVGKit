@@ -7,6 +7,7 @@
 //
 
 #import "Text.h"
+#import "SVGKDefine.h"
 
 @implementation Text
 

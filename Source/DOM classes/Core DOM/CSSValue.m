@@ -1,4 +1,5 @@
 #import "CSSValue.h"
+#import "SVGKDefine.h"
 #import "CSSValue_ForSubclasses.h"
 
 @implementation CSSValue

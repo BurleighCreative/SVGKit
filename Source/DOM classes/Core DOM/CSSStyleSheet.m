@@ -1,4 +1,5 @@
 #import "CSSStyleSheet.h"
+#import "SVGKDefine_Private.h"
 
 #import "CSSRuleList+Mutable.h"
 

@@ -1,5 +1,6 @@
 
 #import "SVGSwitchElement.h"
+#import "SVGKDefine.h"
 #import "CALayerWithChildHitTest.h"
 #import "SVGHelperUtilities.h"
 #import "NodeList+Mutable.h"

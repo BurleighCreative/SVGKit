@@ -7,6 +7,7 @@
 //
 
 #import "SVGStyleElement.h"
+#import "SVGKDefine.h"
 
 @implementation SVGStyleElement
 

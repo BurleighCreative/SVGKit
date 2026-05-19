@@ -1,4 +1,5 @@
 #import "SVGPolylineElement.h"
+#import "SVGKDefine.h"
 
 #import "SVGUtils.h"
 

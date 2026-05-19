@@ -6,6 +6,7 @@
 //
 
 #import "SVGElement.h"
+#import "SVGKDefine_Private.h"
 
 #import "SVGElement_ForParser.h" //.h" // to solve insane Xcode circular dependencies
 #import "StyleSheetList+Mutable.h"

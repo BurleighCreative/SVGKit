@@ -1,5 +1,6 @@
 
 #import "SVGPoint.h"
+#import "SVGKDefine.h"
 
 @implementation SVGPoint
 

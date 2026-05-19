@@ -7,6 +7,7 @@
 //
 
 #import "Node.h"
+#import "SVGKDefine.h"
 #import "Node+Mutable.h"
 
 #import "NodeList+Mutable.h"

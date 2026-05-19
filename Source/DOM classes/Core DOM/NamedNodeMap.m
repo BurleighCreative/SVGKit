@@ -7,6 +7,7 @@
 //
 
 #import "NamedNodeMap.h"
+#import "SVGKDefine.h"
 #import "NamedNodeMap_Iterable.h"
 
 @interface NamedNodeMap()
